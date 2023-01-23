@@ -1,0 +1,1 @@
+alter table bomba drop column quantidade_abastecida;

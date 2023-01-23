@@ -1,0 +1,1 @@
+alter table registro_abastecimento rename column forma_de_pagamento to forma_pagamento
